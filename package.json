@@ -1,0 +1,17 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "nyoba unit testing pake mocha + chai javascript",
+  "main": "app.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "tegarjgap",
+  "license": "MIT"
+}
