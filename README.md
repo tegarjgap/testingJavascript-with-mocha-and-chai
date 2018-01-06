@@ -27,4 +27,4 @@ and.. __Voila!__ your test is done! :cool:
 * <a href= 'http://chaijs.com/'> Chaijs </a>
 
 ## Author
-<a href='https:github.com/tegarjgap'> tegarjgap </a>
+<a href='https://github.com/tegarjgap'> tegarjgap </a>
